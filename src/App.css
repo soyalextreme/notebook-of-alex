@@ -71,6 +71,10 @@ i:hover {
   margin-top: 1.3rem;
 }
 
+.mb {
+  margin-bottom: 2rem;
+}
+
 .footer {
   background-color: grey;
   position: fixed;
