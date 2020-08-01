@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <Fragment>
-      <div className="container">
+      <div className="container mb">
         <div className="flex-item">
           <h3>Bienvenidos.</h3>
 
