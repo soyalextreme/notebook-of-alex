@@ -14,4 +14,12 @@ export const data = [
     fileName: "Curso_de_Introduccin_al_pensamiento_probabilista..pdf",
     key: "2",
   },
+	 {
+    title: "Curso de SQL y MySQL",
+    href: "/sqlMsql",
+    description: "Apuntes de el curso para aprender SQL y MySQL desde linea de comandos.",
+    fileName: "Curso_de_SQL_y_MySQL.pdf",
+    key: "3",
+  },
+	
 ];
