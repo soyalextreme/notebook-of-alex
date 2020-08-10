@@ -1,5 +1,4 @@
-export const data = [
-  {
+
     title: "Introduccion a selenium",
     href: "/indroduccion/selenium",
     description:
@@ -21,5 +20,20 @@ export const data = [
     fileName: "Curso_de_SQL_y_MySQL.pdf",
     key: "3",
   },
+	 {
+    title: "Curso de Introduccion Camino Emprendedor",
+    href: "/caminoemprendedor",
+    description: "Apuntes de el curso para iniciar en el camino de emprendedor",
+    fileName: "Curso_para_comenzar_tu_camino_de_emprendedor.pdf",
+    key: "4",
+  },
+ {
+    title: "Curso de Introduccion Creacion Startups",
+    href: "/introduccion/startups",
+    description: "Apuntes de el curso de introduccion al mundo de las startups",
+    fileName: "Introduccin_a_la_creacin_de_startups.pdf",
+    key: "5",
+  },
+
 	
 ];
